@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Parth Shah - a portfolio"
+title                    : "Compiling Gibberish"
 title_separator          : "-"
 name                     : &name "Parth Shah"
-description              : &description "personal description"
+description              : &description "a documentation of the projects I work on."
 url                      : https:/valvze.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "valvze.github.io"
