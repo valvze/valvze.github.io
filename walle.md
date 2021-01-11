@@ -17,14 +17,13 @@ image: assets/images/wall-e.png
 		</header>
 
 <!-- Content -->
-<div class="box alt">
-	<div class="Fit">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
-	</div>
-</div>
+
 <div class="Fit">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
-	</div>
+</div>
+<div class="row 50%">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
+</div>
 <h2 id="content">My Computer Science 30 Capstone Project.</h2>
 <p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC.</p>
 <div class="row">
