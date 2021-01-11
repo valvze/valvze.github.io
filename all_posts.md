@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Welcome to my ramblings!'
 image: assets/images/pic10.jpg
 nav-menu: false
 show_tile: false
