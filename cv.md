@@ -68,15 +68,15 @@ show_tile: false
 <dl>
 <dt>Jared Wipf</dt>
 	<dd>
-		<p>jwipf@chinooksd.ca</p>
+		<p>Central School, <i>jwipf@chinooksd.ca</i></p>
 	</dd>
 <dt>Dawn Caswell</dt>
 	<dd>
-		<p>dcaswell@chinooksd.ca</p>
+		<p>Fairview School, <i>dcaswell@chinooksd.ca</i></p>
 	</dd>
 <dt>Riley Sharp</dt>
 	<dd>
-		<p>rsharp@chinooksd.ca</p>
+		<p>Swift Current Comprehensive High School, <i>rsharp@chinooksd.ca</i></p>
 	</dd>
 </dl>
 
