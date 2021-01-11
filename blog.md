@@ -27,7 +27,7 @@ show_tile: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="posts/shad.html" class="image">
-			<img src="{% link assets/images/shad.jpeg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/shad-logo.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
