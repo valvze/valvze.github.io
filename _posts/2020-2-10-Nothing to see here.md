@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nothing here yet :()
+title: Nothing here yet :(
 description: Ipsum dolor sit amet
 image: assets/images/parth.jpg
 ---
