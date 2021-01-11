@@ -17,8 +17,8 @@ image: assets/images/pic07.jpg
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Introducing Wall-E, a sleek wallpaper app using Flutter; implementing a clean design and BLOC.</p>
+<h2 id="content">My Computer Science 30 Capstone Project.</h2>
+<p>Introducing Wall-E, a sleek wallpaper app using Flutter and Kotlin; implementing a clean design and BLOC.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
