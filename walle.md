@@ -39,7 +39,8 @@ image: assets/images/wall-e.png
 	<div class="6u$ 12u$(small)">
 		<h3>My Experience</h3>
 		<p>Building apps with Flutter is extremely simple and quick to pick up compared to alternatives such as Java. As a result, scaffolding the frontend and creating the backend was a matter of only a few days' worth of work. Flow charts and pre-planning was also unnecessary due to this; great job Flutter devs!</p>
-		<p>Building apps with Flutter is extremely simple and quick to pick up compared to alternatives such as Java. As a result, scaffolding the frontend and creating the backend was a matter of only a few days' worth of work. Flow charts and pre-planning was also unnecessary due to this; great job Flutter devs!</p>
+		<p>Another fantastic aspect of using Flutter is the growing amount of open source modules available everyday to use within your project. If what you need to build is easy to implement, chances are that someone has already built a package exactly for what you need. Lastly, Kotlin was used in some parts of the project where Flutter could be used. For example, I needed to import an open source Shared Preferences module to store data in the devices memory.</p>
+		<p>Regardless of these small issues however, I greatly enjoyed the Flutter experience and highly suggest anyone interested in learning mobile app development to give it a try first.</p>
 
 		
 </div>
