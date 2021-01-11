@@ -6,7 +6,7 @@ nav-menu: true
 description: null
 image: assets/images/pic06.jpg
 author: null
-show_tile: true
+show_tile: false
 ---
 
 <h1>Blog Posts</h1>
