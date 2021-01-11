@@ -11,7 +11,7 @@ show_tile: false
 <div id="main">
 
 <!-- One -->
-<section>
+<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
@@ -24,7 +24,7 @@ show_tile: false
 </section>
 
 <!-- Two -->
-<section id="two" class="spotlights">
+<section class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
