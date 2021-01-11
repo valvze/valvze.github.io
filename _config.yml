@@ -6,10 +6,10 @@ description: Welcome to my nook on the internet.<br /> Read about what I'm up to
 baseurl: "" # the subpath of your site, e.g. /blog
 url: valvze.github.io
 author: Parth Shah
-street_address: 510 Valley Pointe Way
+street_address: 
 city: Swift Current
 state: Saskatchewan
-zip_code: S9H 5N2
+zip_code: 
 country: Canada
 phone: (306) 315-6415
 
