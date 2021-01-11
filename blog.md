@@ -32,9 +32,9 @@ show_tile: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>My Experience at SHAD Online 2020</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p><i>Shad Canada is an annual Canadian summer enrichment program for high-achieving high school students in July. The program is open to both Canadian and international students. The program is offered at 19 participating universities across Canada.</i></p>
 				<ul class="actions">
 					<li><a href="posts/shad.html" class="button">Learn more</a></li>
 				</ul>
