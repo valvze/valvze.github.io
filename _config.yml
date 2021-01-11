@@ -3,8 +3,8 @@ title: Compiling Gibberish
 subtitle: by Parth Shah
 email: parth.c.shah@gmail.com
 description: Welcome to my nook on the internet.<br /> Read about what I'm up to and enjoy your stay!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: valvze.github.io
+baseurl: "/valvze.github.io" # the subpath of your site, e.g. /blog
+url: 
 author: Parth Shah
 street_address: 
 city: Swift Current
@@ -20,11 +20,11 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/valvze
+gitlab_url: 
+googleplus_url: 
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
