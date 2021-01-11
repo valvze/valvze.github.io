@@ -42,7 +42,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Favorite Features</h3>
+					<h3>Cool Features</h3>
 				</header>
 				<p>I didn't want to produce a weather app for the sake of learning development; I also cared about making something functional that people could use reliably every day of their life. As a result, I added nice QoL features such as a dark mode and a dynamic coloring system.</p>
 			</div>
@@ -55,12 +55,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>But Also the Ones you Need!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>But what good is dark mode if the app isn't accurate? To produce a reliable app, I have implemented APIs from AirVisual, Google, and most importantly: Dark Sky. This will ensure that whatever your seeing on screen corresponds to what you're sensing outside. Amazing!</p>
 			</div>
 		</div>
 	</section>
