@@ -46,10 +46,11 @@ image: assets/images/wall-e.png
 </div>
 	
 </div>
-<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
+
 
 <hr class="major" />
 
+<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
