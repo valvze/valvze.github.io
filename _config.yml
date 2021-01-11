@@ -2,16 +2,16 @@
 title: Compiling Gibberish
 subtitle: by Parth Shah
 email: parth.c.shah@gmail.com
-description: Welcome to my nook on the internet.<br /> Read about what I'm up to and enjoy your stay!.
+description: Welcome to my nook on the internet.<br /> Read about what I'm up to and enjoy your stay!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: valvze.github.io
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Parth Shah
+street_address: 510 Valley Pointe Way
+city: Swift Current
+state: Saskatchewan
+zip_code: S9H 5N2
+country: Canada
+phone: (306) 315-6415
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
