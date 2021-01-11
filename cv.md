@@ -50,15 +50,15 @@ show_tile: false
 <dl>
 <dt>Swift Current Comprehensive High School</dt>
 	<dd>
-		<p>September 2017 - Present</p>
+		<p>Swift Current, <i>September 2017 - Present</i></p>
 	</dd>
 <dt>Central School</dt>
 	<dd>
-		<p>September 2015 - June 2017</p>
+		<p>Swift Current, <i>September 2015 - June 2017</i></p>
 	</dd>
 <dt>Westminster Woods</dt>
 	<dd>
-		<p>September 2011 - June 2015</p>
+		<p>Guelph, <i>September 2011 - June 2015</i></p>
 	</dd>
 </dl>
 
