@@ -71,6 +71,8 @@ show_tile: false
 	</div>
 </div>
 
+<hr class="major" />
+
 <h2 id="content">Education</h2>
 <dl>
 <dt>Swift Current Comprehensive High School</dt>
