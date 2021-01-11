@@ -23,7 +23,7 @@ image: assets/images/wall-e.png
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>How was it built?</h3>
-		<p>The app is built using an open source software development framework known as Flutter. Using Flutter, users are able to access a wide variety of widgets to build layouts quickly and easily. Below is a code snippet depicting the simple syntax. </p>
+		<p>The app is built using an open source software development framework known as Flutter. Using Flutter, users are able to access a wide variety of widgets to build layouts quickly and easily. Below is a code snippet depicting me easily building an app bar. </p>
 		<pre><code>return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.transparent,
