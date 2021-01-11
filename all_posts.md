@@ -2,7 +2,7 @@
 title: Blog
 layout: landing
 description: 'The spot I store my various ramblings and let you glimpse into my perspective.'
-image: assets/images/pic10.jpg
+image: assets/images/pic12.jpg
 nav-menu: false
 show_tile: false
 ---
