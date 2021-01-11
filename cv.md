@@ -42,6 +42,10 @@ show_tile: false
      at elementary basketball games as a scorekeeper. Have also participated in SHAD, an  
      annual, nationally run camp focused on STEM and entrepreneurship.</p>
 	</dd>
+<dt>Work on POSP</dt>
+	<dd>
+		<p>Contributed to the Potato Open Source Project, an aftermarket AOSP fork that thousands of users benefit from to reduce electronic waste.</p>
+	</dd>
 </dl>
 
 <hr class="major" />
