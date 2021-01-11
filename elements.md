@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Curriculum Vitae
 nav-menu: true
 ---
 
