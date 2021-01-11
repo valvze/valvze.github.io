@@ -17,13 +17,6 @@ image: assets/images/wall-e.png
 		</header>
 
 <!-- Content -->
-
-<div class="Fit">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
-</div>
-<div class="row 50%">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
-</div>
 <h2 id="content">My Computer Science 30 Capstone Project.</h2>
 <p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC.</p>
 <div class="row">
@@ -43,8 +36,10 @@ image: assets/images/wall-e.png
 </code></pre>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
+		<h3>The Process</h3>
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<div class="Fit"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
+</div>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
