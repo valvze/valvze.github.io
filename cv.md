@@ -46,41 +46,7 @@ show_tile: false
 
 <hr class="major" />
 
-<h2 id="content">Education</h2>
-<dl>
-<dt>Swift Current Comprehensive High School</dt>
-	<dd>
-		<p>Swift Current, <i>September 2017 - Present</i></p>
-	</dd>
-<dt>Central School</dt>
-	<dd>
-		<p>Swift Current, <i>September 2015 - June 2017</i></p>
-	</dd>
-<dt>Westminster Woods</dt>
-	<dd>
-		<p>Guelph, <i>September 2011 - June 2015</i></p>
-	</dd>
-</dl>
-
-<hr class="major" />
-
-<h2 id="content">References</h2>
-<dl>
-<dt>Jared Wipf</dt>
-	<dd>
-		<p>Central School, <i>jwipf@chinooksd.ca</i></p>
-	</dd>
-<dt>Dawn Caswell</dt>
-	<dd>
-		<p>Fairview School, <i>dcaswell@chinooksd.ca</i></p>
-	</dd>
-<dt>Riley Sharp</dt>
-	<dd>
-		<p>Swift Current Comprehensive High School, <i>rsharp@chinooksd.ca</i></p>
-	</dd>
-</dl>
-
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Skills and Tools</h2>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -104,6 +70,45 @@ show_tile: false
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
+
+<h2 id="content">Education</h2>
+<dl>
+<dt>Swift Current Comprehensive High School</dt>
+	<dd>
+		<p>Swift Current, <i>September 2017 - Present</i></p>
+	</dd>
+<dt>Central School</dt>
+	<dd>
+		<p>Swift Current, <i>September 2015 - June 2017</i></p>
+	</dd>
+<dt>Westminster Woods</dt>
+	<dd>
+		<p>Guelph, <i>September 2011 - June 2015</i></p>
+	</dd>
+</dl>
+
+<hr class="major" />
+
+
+
+<h2 id="content">References</h2>
+<dl>
+<dt>Jared Wipf</dt>
+	<dd>
+		<p>Central School, <i>jwipf@chinooksd.ca</i></p>
+	</dd>
+<dt>Dawn Caswell</dt>
+	<dd>
+		<p>Fairview School, <i>dcaswell@chinooksd.ca</i></p>
+	</dd>
+<dt>Riley Sharp</dt>
+	<dd>
+		<p>Swift Current Comprehensive High School, <i>rsharp@chinooksd.ca</i></p>
+	</dd>
+</dl>
+
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+
 
 <hr class="major" />
 
