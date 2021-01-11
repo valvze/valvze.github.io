@@ -18,7 +18,7 @@ image: assets/images/wall-e.png
 
 <!-- Content -->
 <div class="box alt">
-	<div class="row">
+	<div class="row 50%">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
 	</div>
 </div>
