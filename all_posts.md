@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: landing
-description: 'Welcome to my ramblings!'
+description: 'The spot I store my various ramblings and let you glimpse into my perspective.'
 image: assets/images/pic10.jpg
 nav-menu: false
 show_tile: false
