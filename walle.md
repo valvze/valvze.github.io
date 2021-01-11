@@ -44,6 +44,7 @@ image: assets/images/wall-e.png
 
 		
 </div>
+</div>
 
 <hr class="major" />
 
