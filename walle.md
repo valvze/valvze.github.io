@@ -3,7 +3,7 @@ layout: page
 title: Wall-E
 description: 'Computer Science 30 Capstone Project'
 nav-menu: true
-image: assets/images/walle.png
+image: assets/images/wall-e.png
 ---
 
 <!-- Main -->
@@ -19,7 +19,7 @@ image: assets/images/walle.png
 <!-- Content -->
 <div class="box alt">
 	<div class="row">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/walle.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
 	</div>
 </div>
 
