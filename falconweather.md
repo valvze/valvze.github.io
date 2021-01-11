@@ -55,7 +55,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>But Also the Ones you Need!</h3>
+					<h3>But Also the Ones You Need!</h3>
 				</header>
 				<p>But what good is dark mode if the app isn't accurate? To produce a reliable app, I have implemented APIs from AirVisual, Google, and most importantly: Dark Sky. This will ensure that whatever your seeing on screen corresponds to what you're sensing outside. Amazing!</p>
 			</div>
