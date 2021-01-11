@@ -3,7 +3,7 @@ layout: page
 title: Wall-E
 description: 'Computer Science 30 Capstone Project'
 nav-menu: true
-image: assets/images/pic07.jpg
+image: assets/images/walle.png
 ---
 
 <!-- Main -->
