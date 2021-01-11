@@ -2,7 +2,7 @@
 title: Blog
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/parth.jpg
+image: assets/images/pic10.jpg
 nav-menu: false
 show_tile: false
 ---
