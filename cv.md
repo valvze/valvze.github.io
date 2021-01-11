@@ -29,7 +29,7 @@ show_tile: false
 		<p>Averaged a cumulative 98% average in all Grade 11 courses. Currently averaging a 95%
      in Grade 12 courses.</p>
 	</dd>
-<dt>CEMC Cayley Award and TED Rogers Innovation Award</dt>
+<dt>CEMC Awards and TED Rogers Innovation Award</dt>
 	<dd>
 		<p>Achieved the highest mark for the Waterloo-based math contest at SCCHS for 
      the Cayley (Grade 10) and Fermat (Grade 11) category. Also have won the TED Rogers   
@@ -70,6 +70,24 @@ show_tile: false
 		<p>A solid background in operating the Microsoft Office lineup, including Excel, Word, and Powerpoint.</p>
 	</div>
 </div>
+
+<hr class="major" />
+
+<h2 id="content">Work and Community Involvement</h2>
+<dl>
+<dt>Dairy Queen Swift Current</dt>
+	<dd>
+		<p>HR and Management, <i>May 2017 - Present</i></p>
+	</dd>
+<dt>Flutterfly Technologies</dt>
+	<dd>
+		<p>App Developer, <i>May 2019 - Present</i></p>
+	</dd>
+<dt>Youth Basketball Coaching</dt>
+	<dd>
+		<p>Scorekeeper, <i>January 2019 - February 2020</i></p>
+	</dd>
+</dl>
 
 <hr class="major" />
 
