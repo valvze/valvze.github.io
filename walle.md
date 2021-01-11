@@ -48,7 +48,7 @@ image: assets/images/wall-e.png
 
 <hr class="major" />
 
-<p>If anybody would like to try out this simple app and give your device a new feel, download the app by clicking this <a href="#">link</a>. </p>
+<p>Lastly, here are the goods! If anybody would like to try out this simple app and give your device a makeover, download the app by clicking this <a href="https://github.com/valvze/valvze.github.io/raw/master/app-release.apk">link</a>. Remember, Android only!</p>
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
