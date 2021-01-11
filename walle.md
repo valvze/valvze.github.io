@@ -50,10 +50,6 @@ image: assets/images/wall-e.png
 
 <p>Lastly, here are the goods! If anybody would like to try out this simple app and give your device a makeover, download the app by clicking this <a href="https://github.com/valvze/valvze.github.io/raw/master/app-release.apk">link</a>. Remember, Android only!</p>
 
-<hr class="major" />
-
-<p>By Parth Shah, January 10th 2021</p>
-
 </div>
 
 
