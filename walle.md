@@ -48,7 +48,7 @@ image: assets/images/wall-e.png
 
 <hr class="major" />
 
-<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
+<p>If anybody would like to try out this simple app and give your device a new feel, download the app by clicking this <a href="#">link</a>. </p>
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
