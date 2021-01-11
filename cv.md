@@ -46,33 +46,40 @@ show_tile: false
 
 <hr class="major" />
 
-<h2 id="content">Highlights</h2>
+<h2 id="content">Education</h2>
 <dl>
-<dt>3x Canada Wide Science Fair Attendee</dt>
+<dt>Swift Current Comprehensive High School</dt>
 	<dd>
-		<p>Been in attendance of the Canada Wide Science Fair for three of the past five years. My
-     latest project was based around a machine learning algorithm that could signal 
-     osteoarthritis within the kneecaps through a mobile application.</p>
+		<p>September 2017 - Present</p>
 	</dd>
-<dt>98% Average in Grade 11</dt>
+<dt>Central School</dt>
 	<dd>
-		<p>Averaged a cumulative 98% average in all Grade 11 courses. Currently averaging a 95%
-     in Grade 12 courses.</p>
+		<p>September 2015 - June 2017</p>
 	</dd>
-<dt>CEMC Cayley Award and TED Rogers Innovation Award</dt>
+<dt>Westminster Woods</dt>
 	<dd>
-		<p>Achieved the highest mark for the Waterloo-based math contest at SCCHS for 
-     the Cayley (Grade 10) and Fermat (Grade 11) category. Also have won the TED Rogers   
-     Innovation Award for my work done on my 2019 CWSF entry.</p>
-	</dd>
-<dt>Extracurriculars and Volunteering</dt>
-	<dd>
-		<p>Involved in both the SCCHS soccer and badminton teams. Also a member of
-     the business club, debate team, and robotics club. Regularly volunteer my time
-     at elementary basketball games as a scorekeeper. Have also participated in SHAD, an  
-     annual, nationally run camp focused on STEM and entrepreneurship.</p>
+		<p>September 2011 - June 2015</p>
 	</dd>
 </dl>
+
+<hr class="major" />
+
+<h2 id="content">References</h2>
+<dl>
+<dt>Jared Wipf</dt>
+	<dd>
+		<p>jwipf@chinooksd.ca</p>
+	</dd>
+<dt>Dawn Caswell</dt>
+	<dd>
+		<p>dcaswell@chinooksd.ca</p>
+	</dd>
+<dt>Riley Sharp</dt>
+	<dd>
+		<p>rsharp@chinooksd.ca</p>
+	</dd>
+</dl>
+
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
