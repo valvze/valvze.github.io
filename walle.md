@@ -43,12 +43,12 @@ image: assets/images/wall-e.png
 		<p>Regardless of these minor issues however, I greatly enjoyed the Flutter experience and highly suggest anyone interested in learning mobile app development to give it a try first.</p>
 
 		
-
-
+</div>
+	
+</div>
+<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
 
 <hr class="major" />
-
-<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
