@@ -29,6 +29,19 @@ show_tile: false
 		<p>Averaged a cumulative 98% average in all Grade 11 courses. Currently averaging a 95%
      in Grade 12 courses.</p>
 	</dd>
+<dt>CEMC Cayley Award and TED Rogers Innovation Award</dt>
+	<dd>
+		<p>Achieved the highest mark for the Waterloo-based math contest at SCCHS for 
+     the Cayley (Grade 10) and Fermat (Grade 11) category. Also have won the TED Rogers   
+     Innovation Award for my work done on my 2019 CWSF entry.</p>
+	</dd>
+<dt>Extracurriculars and Volunteering</dt>
+	<dd>
+		<p>Involved in both the SCCHS soccer and badminton teams. Also a member of
+     the business club, debate team, and robotics club. Regularly volunteer my time
+     at elementary basketball games as a scorekeeper. Have also participated in SHAD, an  
+     annual, nationally run camp focused on STEM and entrepreneurship.</p>
+	</dd>
 </dl>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
