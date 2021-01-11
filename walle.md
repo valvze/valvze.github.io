@@ -38,16 +38,17 @@ image: assets/images/wall-e.png
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>My Experience</h3>
-		<p>Building apps with Flutter is extremely simple and quick to pick up compared to alternatives such as Java. As a result, scaffolding the frontend and creating the backend was a matter of only a few days' worth of work. Flow charts and pre-planning?Not needed.</p>
+		<p>Building apps with Flutter is extremely simple and quick to pick up compared to alternatives such as Java. As a result, scaffolding the frontend and creating the backend was a matter of only a few days' worth of work. Flow charts and pre-planning  Not needed.</p>
 		<p>Another fantastic aspect of using Flutter is the growing amount of open source modules. If what you need is easy to implement, chances are that someone has already built a package exactly for what you need. Lastly, Kotlin was used in some parts of the project where Flutter could not be. For example, I needed to import an open source Shared Preferences module to store data in the device's memory.</p>
 		<p>Regardless of these minor issues however, I greatly enjoyed the Flutter experience and highly suggest anyone interested in learning mobile app development to give it a try first.</p>
 
 		
-</div>
-	<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
-</div>
+
+
 
 <hr class="major" />
+
+<p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
