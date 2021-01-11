@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Coding Wall-E
+description: Building my Computer Science 30 Capstone Project
 image: assets/images/pic07.jpg
 nav-menu: false
 show_tile: false
