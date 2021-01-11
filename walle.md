@@ -22,22 +22,25 @@ image: assets/images/wall-e.png
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
 	</div>
 </div>
-
+<div class="Fit">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
+	</div>
 <h2 id="content">My Computer Science 30 Capstone Project.</h2>
 <p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>How was it built?</h3>
 		<p>The app is built using an open source software development framework known as Flutter. Using Flutter, users are able to access a wide variety of widgets to build layouts quickly and easily. Below is a code snippet depicting the simple syntax. </p>
-		<pre><code>i = 0;
-
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
+		<pre><code>return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Colors.transparent,
+        elevation: 0.0,
+        title: Text(
+          widget.category,
+          style: TextStyle(fontFamily: 'Raleway'),
+        ),
+        centerTitle: true,
+      ),
 </code></pre>
 	</div>
 	<div class="6u$ 12u$(small)">
