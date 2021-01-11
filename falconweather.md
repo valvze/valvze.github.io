@@ -32,9 +32,7 @@ nav-menu: true
 					<h3>Function and Form</h3>
 				</header>
 				<p>While developing Falcon, a key focus was keeping it simple and beautiful while also presenting the most valuable information to plan your day. Form over function or function over form? I say why not both!</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				
 			</div>
 		</div>
 	</section>
