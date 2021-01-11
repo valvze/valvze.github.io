@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Weather by Falcon
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'a simple Weather app built with Flutter'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
