@@ -3,7 +3,7 @@ title: Blog
 layout: landing
 description: 'The spot I store my various ramblings and let you glimpse into my perspective.'
 image: assets/images/pic12.jpg
-nav-menu: false
+nav-menu: true
 show_tile: false
 ---
 
@@ -11,7 +11,7 @@ show_tile: false
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<section>
 	<div class="inner">
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
