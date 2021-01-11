@@ -18,9 +18,11 @@ show_tile: false
 <!-- Content -->
 <h2 id="content">Highlights</h2>
 <dl>
-<dt>Item1</dt>
+<dt>3x Canada Wide Science Fair Attendee</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p> Been in attendance of the Canada Wide Science Fair for three of the past five years. My
+     latest project was based around a machine learning algorithm that could signal 
+     osteoarthritis within the kneecaps through a mobile application.</p>
 	</dd>
 </dl>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
