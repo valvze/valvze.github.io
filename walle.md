@@ -33,12 +33,12 @@ image: assets/images/pic07.jpg
 
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
-   	 deck.shuffle();
-   	      i++;
-		}
+    deck.shuffle();
+    i++;
+}
 
-		print 'It took ' + i + ' iterations to sort the deck.';
-		</code></pre>
+print 'It took ' + i + ' iterations to sort the deck.';
+</code></pre>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
