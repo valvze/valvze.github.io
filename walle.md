@@ -28,7 +28,17 @@ image: assets/images/pic07.jpg
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>How was it built?</h3>
-		<p>The app is built using an open source software development framework known as Flutter. Within Flutter, users are able to access a wide variety of widgets to build layouts quickly and easily. </p>
+		<p>The app is built using an open source software development framework known as Flutter. Within Flutter, users are able to access a wide variety of widgets to build layouts quickly and easily. Below is a code snippet depicting the simple syntax. </p>
+		<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+   	 deck.shuffle();
+   	      i++;
+		}
+
+		print 'It took ' + i + ' iterations to sort the deck.';
+		</code></pre>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
