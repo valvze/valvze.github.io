@@ -5,15 +5,7 @@ nav-menu: true
 show_tile: false
 ---
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T6HS5GPYV1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-T6HS5GPYV1');
-</script>
 
 <!-- Main -->
 <div id="main" class="alt">
