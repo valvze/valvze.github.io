@@ -7,7 +7,6 @@ image: assets/images/wall-e.png
 ---
 
 
-
 <!-- Main -->
 <div id="main" class="alt">
 

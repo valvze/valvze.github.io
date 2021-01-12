@@ -7,7 +7,6 @@ nav-menu: true
 ---
 
 
-
 <!-- Main -->
 <div id="main">
 

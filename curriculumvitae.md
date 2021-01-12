@@ -6,7 +6,6 @@ show_tile: false
 ---
 
 
-
 <!-- Main -->
 <div id="main" class="alt">
 
