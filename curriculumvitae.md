@@ -28,7 +28,7 @@ show_tile: false
 	</dd>
 <dt>98% Average in Grade 11</dt>
 	<dd>
-		<p>Averaged a cumulative 98% average in all Grade 11 courses. Currently averaging a 95%
+		<p>Averaged a cumulative 98% average in all Grade 11 courses. Currently averaging a 97%
      in Grade 12 courses.</p>
 	</dd>
 <dt>CEMC Awards and TED Rogers Innovation Award</dt>
