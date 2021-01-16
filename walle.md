@@ -21,7 +21,50 @@ image: assets/images/wall-e.png
 <h2 id="content">My Computer Science 30 Capstone Project.</h2>
 <div class="Fit"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
 <p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
+
 <hr class="major" />
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/fw2.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Function and Form</h3>
+				</header>
+				<p>While developing Falcon, a key focus was keeping it simple and beautiful while also presenting the most valuable information to plan your day. Form over function or function over form? I say why not both!</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/fw3.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Cool Features</h3>
+				</header>
+				<p>I didn't want to produce a weather app for the sake of learning development; I also cared about making something functional that people could use reliably every day of their life. As a result, I added nice QoL features such as a dark mode and a dynamic coloring system.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/fw1.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>But Also the Ones You Need!</h3>
+				</header>
+				<p>But what good is dark mode if the app isn't accurate? To produce a reliable app, I have implemented APIs from AirVisual, Google, and most importantly: Dark Sky. This will ensure that whatever your seeing on screen corresponds to what you're sensing outside. Amazing!</p>
+			</div>
+		</div>
+	</section>
+</section>
 <hr class="major" />
 <div class="row">
 	<div class="6u 12u$(small)">
