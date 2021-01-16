@@ -21,6 +21,8 @@ image: assets/images/wall-e.png
 <h2 id="content">My Computer Science 30 Capstone Project.</h2>
 <div class="Fit"><span class="image fit"><img src="{% link assets/images/wall-e.png %}" alt="" /></span></div>
 <p>For my capstone project, I decided to build a sleek wallpaper app using Flutter and Kotlin; it features a clean design and modules are implemented with BLOC pattern.</p>
+<hr class="major" />
+<hr class="major" />
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>How was it built?</h3>
