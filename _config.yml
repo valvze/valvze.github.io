@@ -11,7 +11,7 @@ city: Swift Current
 state: Saskatchewan
 zip_code: 
 country: Canada
-phone: (306) 315-6415
+phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
