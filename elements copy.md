@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Gringotts - creating a home server
 nav-menu: true
 show_tile: true
 ---
