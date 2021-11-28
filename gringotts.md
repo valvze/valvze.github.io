@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Gringotts - creating a home server
-nav-menu: true
-show_tile: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
@@ -12,12 +12,24 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Creating Gringotts</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Introduction</h2>
+<p>On June 1st of this year, Google announced an end to their "free, unlimited" cloud storage solution for anyone with access to their service. Instead, uploading media to their servers would now count towards a 15 GB quota that would need to carefully managed by the user as the space would be shared between Google Drive, Google Photos, and Gmail. Fastforward to November and I begin to receive a barrage of complaints from my parents regarding space running out on their Google accounts; the free 15 GB had filled up surprisingly quick.
+
+Naturally, I initially resolved to the low effort problem solving strategy at first and helped them sort out what needed to be kept and what needed to be trashed by sitting down with them and going through their media. But eventually this cycle began to repeat itself on a week by week basis until I realized I needed to come up with an alternative solution; otherwise I would be driven mad. 
+</p>
+
+<h2 id="content">Tradeoffs</h2>
+<p>At this point, I had two options: begin to find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One have gotten. At the time of writing this, 2 TB is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for having a safe backup of your media. 
+
+But my needs for a storage solution were different. In addition to storing my family's photos, there were 
+
+
+</p>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
