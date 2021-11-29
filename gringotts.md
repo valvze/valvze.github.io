@@ -17,22 +17,36 @@ show_tile: false
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
+
 <p>On June 1st of this year, Google announced an end to their "free, unlimited" cloud storage solution for anyone with access to their service. Instead, uploading media to their servers would now count towards a 15 GB quota that would need to carefully managed by the user as the space would be shared between Google Drive, Google Photos, and Gmail. Fastforward to November and I begin to receive a barrage of complaints from my parents regarding space running out on their Google accounts; the free 15 GB had filled up surprisingly quick.
+</p>
 
+<p>
 Naturally, I initially resolved to the low effort problem solving strategy at first and helped them sort out what needed to be kept and what needed to be trashed by sitting down with them and going through their media. But eventually this cycle began to repeat itself on a week by week basis until I realized I needed to come up with an alternative solution; otherwise I would be driven mad. 
+</p>
 
+<p>
 Compounded with the growing *ahem* torrented media in my possession and my dad's need of making the data on his hard drive to be accessible from anywhere for business purposes, I was forced to brainstorm of a creative solution to handle it all together.
 </p>
 
 <h2 id="content">Tradeoffs</h2>
+
 <p>In the beginning brainstorm stage, I recognized two options: begin to find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One have got. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media.
+</p>
 
+<p>
 But my needs for a storage solution were different; I wanted fast transfer speeds, flexibility, and storage larger than 2 TB for all the torrented media in my possession. And past a certain point, cloud storage becomes increasingly expensive compared to running a server of your own with similar capacity. For instance, a 12 TB server ran at home with the spare hardware I had laying around would cost me about $25 dollars worth of electricity where I live. I'm only counting electricity as an expense here because unlimited internet is something my parents would pay for regardless. On the flip side, a similar 12 TB solution hosted through a cloud storage solution such as Google One would run me a monthly bill of $84. No thanks, I have to save for my tuition!
+</p>
 
+<p>
 Plus, you can do *more* with a server than you can with Google Drive. Personal VPN, P2P downloading, Plex (think Netflix, but it's your own media), and a self-hosted cloud storage solution such as Nextcloud (think Google Drive but it's run on your own hardware) are a few of the things I had in mind. Plus, it would be a nice learning experience that I assumed would reap rewards in the long run.
+</p>
 
-I'd like to reiterate that for the general populace however, this may seem like more trouble than it's worth. It's up to you to decide if the tradeoff of committing time and research into something that can randomly fail in the middle of the night five years down the line due to a worn out CPU is worth it. If setting up your own fail-proof Google Drive-esque storage at home was as easy as 1-2-3, Google wouldn't be selling it. 
+<p>
+I'd like to reiterate that for the general populace however that this may seem like more trouble than it's worth. It's up to you to decide if the tradeoff of committing time and research into something that can randomly fail in the middle of the night five years down the line due to a worn out CPU is worth it. If setting up your own fail-proof Google Drive-esque storage at home was as easy as 1-2-3, Google wouldn't be selling it. 
+</p>
 
+<p>
 In the end, I decided to take advantage of the 12 TB worth of drives I had and put them to use in spare office desktop I had laying around that I fondly named "Gringotts" - credit to my friend Joju for the inspiration.
 </p>
 
