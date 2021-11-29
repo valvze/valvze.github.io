@@ -26,7 +26,7 @@ Naturally, I initially resolved to the low effort problem solving strategy at fi
 </p>
 
 <p>
-Compounded with the growing *ahem* torrented media in my possession and my dad's need of making the data on his hard drive to be accessible from anywhere for business purposes, I was forced to brainstorm of a creative solution to handle it all together.
+Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's need of making the data on his hard drive to be accessible from anywhere for business purposes, I was forced to brainstorm of a creative solution to handle it all together.
 </p>
 
 <h2 id="content">Tradeoffs</h2>
@@ -39,7 +39,7 @@ But my needs for a storage solution were different; I wanted fast transfer speed
 </p>
 
 <p>
-Plus, you can do *more* with a server than you can with Google Drive. Personal VPN, P2P downloading, Plex (think Netflix, but it's your own media), and a self-hosted cloud storage solution such as Nextcloud (think Google Drive but it's run on your own hardware) are a few of the things I had in mind. Plus, it would be a nice learning experience that I assumed would reap rewards in the long run.
+Plus, you can do <i>more</i> with a server than you can with Google Drive. Personal VPN, P2P downloading, Plex (think Netflix, but it's your own media), and a self-hosted cloud storage solution such as Nextcloud (think Google Drive but it's run on your own hardware) are a few of the things I had in mind. Plus, it would be a nice learning experience that I assumed would reap rewards in the long run.
 </p>
 
 <p>
@@ -47,7 +47,7 @@ I'd like to reiterate that for the general populace however that this may seem l
 </p>
 
 <p>
-In the end, I decided to take advantage of the 12 TB worth of drives I had and put them to use in spare office desktop I had laying around that I fondly named "Gringotts" - credit to my friend Joju for the inspiration.
+In the end, I decided to take advantage of the 12 TB worth of drives I had and put them to use in spare office desktop that I fondly named "Gringotts" - credit to my friend Joju for the inspiration.
 </p>
 
 <h2 id="content">Gringotts' Hardware</h2>
