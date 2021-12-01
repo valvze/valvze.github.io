@@ -12,13 +12,13 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Creating Gringotts</h1>
+			<h1>My Experience Making a Homeserver</h1>
 		</header>
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
-
-<p>On June 1st of this year, Google announced an end to their "free, unlimited" cloud storage solution for anyone with access to their service. Instead, uploading media to their servers would now count towards a 15 GB quota that would need to carefully managed by the user as the space would be shared between Google Drive, Google Photos, and Gmail. Fastforward to November and I begin to receive a barrage of complaints from my parents regarding space running out on their Google accounts; the free 15 GB had filled up surprisingly quick.
+<span class="image fit"><img src="{% link assets/images/googlephotos.jpg %}" alt="" /></span>
+<p>On June 1st of this year, Google announced an end to their "free, unlimited" cloud storage solution for anyone with access to their service. Instead, uploading media to their servers would now count towards a 15 GB quota that would need to carefully be managed by the user as the space would be shared between Google Drive, Google Photos, and Gmail. Fast forward to November and I begin to receive a barrage of complaints from my parents regarding space running out on their Google accounts; the free 15 GB had filled up surprisingly quick.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ Naturally, I initially resolved to the low effort problem solving strategy at fi
 </p>
 
 <p>
-Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's need of making the data on his hard drive to be accessible from anywhere for business purposes, I was forced to brainstorm of a creative solution to handle it all together.
+Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's need of making the data on his hard drive to be accessible from anywhere, I decided it was time to brainstorm a creative solution to handle it all together.
 </p>
 
 <h2 id="content">Tradeoffs</h2>
