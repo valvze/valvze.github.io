@@ -18,7 +18,6 @@ show_tile: false
 
 <!-- Content -->
 <h2 id="content">Introduction</h2>
-<span class="image fit"><img src="{% link assets/images/googlephotos.jpg %}" alt="" /></span>
 <p>On June 1st of this year, Google announced an end to their "free, unlimited" cloud storage solution for anyone with access to their service. Instead, uploading media to their servers would now count towards a 15 GB quota that would need to carefully be managed by the user as the space would be shared between Google Drive, Google Photos, and Gmail. Fast forward to November and I begin to receive a barrage of complaints from my parents regarding space running out on their Google accounts; the free 15 GB had filled up surprisingly quick.
 </p>
 
