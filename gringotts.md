@@ -52,13 +52,13 @@ And so, I decided; I was going to transform an old office Dell that my family ow
 	<dd>
 		<p>A basic dual-core CPU, nothing special here. I’m on the active lookout for finding a more performant i-series processor that would allow me to transcode footage on Plex without jumping to 100% usage every time. Otherwise, it does everything else quite well. </p>
 	</dd>
-	<dt>Item2</dt>
+	<dt>12 GB DDR3 Memory</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>Nothing to say here except that I think it may be overkill. I’m not complaining however as having more doesn’t come with any sacrifice other than a few extra watts of power consumption.</p>
 	</dd>
-	<dt>Item3</dt>
+	<dt>3 x 4 TB 3.5” internal hard drives from Western Digital</dt>
 	<dd>
-		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+		<p>Two of the three drives are basic Blue series drives utilizing CMR (conventional magnetic recording) which will be utilized in a RAID 1 array. The third drive is a Red series drive that I picked up for cheap this Black Friday but unfortunately it runs using SMR (shingled magnetic recording) instead. From my understanding, this technology isn’t the ideal in a RAID setup due to poor performance. Instead, I’ve opted to use it as storage for all my non-sensitive media on Plex.</p>
 	</dd>
 </dl>
 
