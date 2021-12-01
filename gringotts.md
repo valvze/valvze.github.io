@@ -1,9 +1,10 @@
 ---
 layout: page
-title: I Made a Homeserver
+title: Gringotts
 nav-menu: true
 image: assets/images/googlephotos.jpg
 show_tile: true
+description: A summary of my experience building a homeserver
 ---
 
 <!-- Main -->
