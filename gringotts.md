@@ -31,6 +31,13 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 
 
 
+
+
+
+
+
+<h2 id="content">Why a Homeserver</h2>
+
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
@@ -46,14 +53,6 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 		</div>
 	</section>
 </section>
-
-
-
-
-
-
-
-<h2 id="content">Why a Homeserver</h2>
 
 <section id="one">
 	<div class="inner">
