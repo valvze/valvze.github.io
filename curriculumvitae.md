@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

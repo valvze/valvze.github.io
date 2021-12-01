@@ -1,7 +1,7 @@
 ---
 layout: page
 title: I Made a Homeserver
-nav-menu: false
+nav-menu: true
 image: assets/images/googlephotos.jpg
 show_tile: true
 ---
