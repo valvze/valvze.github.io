@@ -38,16 +38,6 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 
 <h2 id="content">Why a Homeserver</h2>
 
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>What is this?</h2>
-		</header>
-		<p>In the November of 2019, I decided to build a weather app in my mission to learn mobile app development. After countless nights of trial and error in my attempt to learn Java, I decided to make things easier for myself and delved into Flutter. Flutter's simple scaffolding implementation allowed me to build a fairly versatile app in the matter of days.</p>
-		<p>Powered by Dark Sky, Weather by Falcon is a reliable source of weather information and is a joy to use with it's beautiful user interface. Try it for yourself by clicking this <a href="https://play.google.com/store/apps/details?id=com.parthshah.falcon_weather&hl=en&gl=US">link</a>.</p>
-	</div>
-</section>
-
 <div class="row">
 	<div class="6u 12u$(small)">
 		<p>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
