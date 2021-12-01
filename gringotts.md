@@ -22,11 +22,11 @@ show_tile: false
 </p>
 
 <p>
-Naturally, I initially resolved to the low effort problem solving strategy at first and helped them sort out what needed to be kept and what needed to be trashed by sitting down with them and going through their media. But eventually this cycle began to repeat itself on a week by week basis until I realized I needed to come up with an alternative solution; otherwise I would be driven mad. 
+Initially, I resolved to the low effort problem solving strategy at first and helped them sort out what needed to be kept and what needed to be trashed by sitting down with them one evening. But eventually this cycle began to repeat itself on a week-by-week basis until I realized I needed to come up with an alternative solution; otherwise, I would be driven mad. 
 </p>
 
 <p>
-Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's need of making the data on his hard drive to be accessible from anywhere, I decided it was time to brainstorm a creative solution to handle it all together.
+Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's specific need of making the data on his hard drive to be accessible from anywhere, I decided it was time to brainstorm a creative solution to handle it all together.
 </p>
 
 <h2 id="content">Tradeoffs</h2>
