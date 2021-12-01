@@ -29,26 +29,29 @@ Initially, I resolved to the low effort problem solving strategy at first and he
 Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's specific need of making the data on his hard drive to be accessible from anywhere, I decided it was time to brainstorm a creative solution to handle it all together.
 </p>
 
-<h2 id="content">Tradeoffs</h2>
+<h2 id="content">Why a Homeserver</h2>
 
-<p>In the beginning brainstorm stage, I recognized two options: begin to find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One have got. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media.
-</p>
-
-<p>
-But my needs for a storage solution were different; I wanted fast transfer speeds, flexibility, and storage larger than 2 TB for all the torrented media in my possession. And past a certain point, cloud storage becomes increasingly expensive compared to running a server of your own with similar capacity. For instance, a 12 TB server ran at home with the spare hardware I had laying around would cost me about $25 dollars worth of electricity where I live. I'm only counting electricity as an expense here because unlimited internet is something my parents would pay for regardless. On the flip side, a similar 12 TB solution hosted through a cloud storage solution such as Google One would run me a monthly bill of $84. No thanks, I have to save for my tuition!
-</p>
-
-<p>
-Plus, you can do <i>more</i> with a server than you can with Google Drive. Personal VPN, P2P downloading, Plex (think Netflix, but it's your own media), and a self-hosted cloud storage solution such as Nextcloud (think Google Drive but it's run on your own hardware) are a few of the things I had in mind. Plus, it would be a nice learning experience that I assumed would reap rewards in the long run.
-</p>
-
-<p>
-I'd like to reiterate that for the general populace however that this may seem like more trouble than it's worth. It's up to you to decide if the tradeoff of committing time and research into something that can randomly fail in the middle of the night five years down the line due to a worn out CPU is worth it. If setting up your own fail-proof Google Drive-esque storage at home was as easy as 1-2-3, Google wouldn't be selling it. 
-</p>
-
-<p>
-In the end, I decided to take advantage of the 12 TB worth of drives I had and put them to use in spare office desktop that I fondly named "Gringotts" - credit to my friend Joju for the inspiration.
-</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<p>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<p>But my needs for a storage solution were different; I wanted fast transfer speeds, flexibility, and storage larger than 2 TB for all the torrented media in my possession. And past a certain point, cloud storage becomes increasingly expensive compared to running a server of your own with similar capacity. For instance, a 12 TB server ran at home with the spare hardware I had laying around would cost me about $25 dollars worth of electricity where I live. I'm only counting electricity as an expense here because unlimited internet is something my parents would pay for regardless. On the flip side, a similar 12 TB solution hosted through a cloud storage solution such as Google One would run me a monthly bill of $84. No thanks, I must save for my tuition!</p>
+	</div>
+	<!-- Break -->
+	<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+</div>
 
 <h2 id="content">Gringotts' Hardware</h2>
 <p>
