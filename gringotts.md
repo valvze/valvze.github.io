@@ -99,11 +99,13 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 </p>
 <p>Once the service on my server was up and running, I set up user accounts and installed the mobile phone apps for everyone in my family that needed the photo backups. The feature works brilliantly; when a photo is taken by a user, it automatically backs it up to Nextcloud. Google’s paltry 15 GB of space would no longer be filled in a pinch! I also setup a sync between my dad’s external hard drive connected to his main PC and Nextcloud so that his data would be accessible from everywhere without having to lug around a hard drive safely. And since his personal PC and the server are connected through a Gigabit ethernet switch, he has access to mass high speed storage when he’s working at home.</p>
 
-
-
 <hr class="major" />
 
+<h3>Plex</h3>
 
+<p>The next program that I installed and configured was Plex. Plex is an amazing streaming service that organizes the media you have by tagging it with metadata and presenting it in a neat manner via the many clients it has. Plus, you can access the media on your server from anywhere meaning that while I’m across the Pacific in Australia, I’ll be able to sit back and watch my collection of movies and family videos without having to download or carry them. For Plex, I also went the Snap installation route and after getting my libraries setup, I let the program do all the work. </p>
+
+<p>As all the Plex libraries are located on the 4 TB WD Red drive separate from my Nextcloud installation, I can’t manage the folders/files on this drive without the help of a handy app in the Nextcloud store. This allows you to link folders outside of your Nextcloud data directory to be accessible within the service. This way I can manage my entire Plex library from inside Nextcloud.</p>
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
