@@ -42,10 +42,11 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 	<div class="6u 12u$(small)">
 		<p>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
 	</div>
+	<span class="image fit"><img src="{% link assets/images/server.jpg %}" alt="" /></span>
 	<div class="6u$ 12u$(small)">
 		<p>But my needs for a storage solution were different; I wanted fast transfer speeds, flexibility, and storage larger than 2 TB for all the torrented media in my possession. And past a certain point, cloud storage becomes increasingly expensive compared to running a server of your own with similar capacity. For instance, a 12 TB server ran at home with the spare hardware I had laying around would cost me about $25 dollars worth of electricity where I live. I'm only counting electricity as an expense here because unlimited internet is something my parents would pay for regardless. On the flip side, a similar 12 TB solution hosted through a cloud storage solution such as Google One would run me a monthly bill of $84. No thanks, I must save for my tuition!</p>
 	</div>
-	<span class="image fit"><img src="{% link assets/images/server.jpg %}" alt="" /></span>
+	
 	<!-- Break -->
 	
 </div>
