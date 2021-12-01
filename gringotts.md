@@ -13,7 +13,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>My Experience Making a Homeserver</h1>
+			<h1>A Summary of My Experience Building a Homeserver</h1>
 		</header>
 
 <!-- Content -->
