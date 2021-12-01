@@ -41,14 +41,11 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/fw2.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/server.jpgg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>Function and Form</h3>
-				</header>
-				<p>While developing Falcon, a key focus was keeping it simple and beautiful while also presenting the most valuable information to plan your day. Form over function or function over form? I say why not both!</p>
+				<p>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
 			</div>
 		</div>
 	</section>
