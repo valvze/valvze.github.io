@@ -118,7 +118,7 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 <hr class="major" />
 
 <h3>OpenVPN</h3>
-<p><span class="image left"><img src="{% link assets/images/OpenVPN.jpg %}" alt="" /></span>Finally, the last application that I will use the server for is OpenVPN. Like most VPN services, OpenVPN encrypts your data and keeps it away from prying eyes such as your ISP and other onlookers on the internet. It also lets me remotely tunnel into my home’s network if I needed to do so. For example, if the Kangaroonian Netflix doesn’t have a show I like, I can tunnel into my home’s network and view everything Canadian Netflix has in its catalogue. A niche utility, sure but it’ll be nice to have in a pinch if my parents need me to randomly fix the router while I’m away. </p>
+<p><span class="image right"><img src="{% link assets/images/OpenVPN.jpg %}" alt="" /></span>Finally, the last application that I will use the server for is OpenVPN. Like most VPN services, OpenVPN encrypts your data and keeps it away from prying eyes such as your ISP and other onlookers on the internet. It also lets me remotely tunnel into my home’s network if I needed to do so. For example, if the Kangaroonian Netflix doesn’t have a show I like, I can tunnel into my home’s network and view everything Canadian Netflix has in its catalogue. A niche utility, sure but it’ll be nice to have in a pinch if my parents need me to randomly fix the router while I’m away. </p>
 
 <p>Once again, the installation was straightforward as I followed this simple five-minute guide without delving into anything too excessive for my usage.</p>
 
