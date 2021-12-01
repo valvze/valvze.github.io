@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gringotts - creating a home server
+title: I Made a Homeserver
 nav-menu: false
 image: assets/images/googlephotos.jpg
 show_tile: true
@@ -123,7 +123,11 @@ sudo apt install qbittorrent-nox</code></pre>
 <h3>OpenVPN</h3>
 <p><span class="image right"><img src="{% link assets/images/OpenVPN.jpg %}" alt="" /></span>Finally, the last application that I will use the server for is <a href="https://openvpn.net/">OpenVPN</a>. Like most VPN services, OpenVPN encrypts your data and keeps it away from prying eyes such as your ISP and other onlookers on the internet. It also lets me remotely tunnel into my home’s network if I needed to do so. For example, if the Kangaroonian Netflix doesn’t have a show I like, I can tunnel into my home’s network and view everything Canadian Netflix has in its catalogue. A niche utility, sure but it’ll be nice to have in a pinch if my parents need me to randomly fix the router while I’m away. </p>
 
-<p>Once again, the installation was straightforward as I followed this simple five-minute guide without delving into anything too excessive for my usage.</p>
+<p>Once again, the installation was straightforward as I followed this simple five-minute <a href="https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/">guide</a> without delving into anything too excessive for my usage.</p>
+
+<pre><code>wget https://git.io/vpn -O openvpn-install.sh
+sudo chmod +x openvpn-install.sh
+sudo bash openvpn-install.sh</code></pre>
 
 <hr class="major" />
 
