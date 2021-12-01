@@ -99,13 +99,15 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 </p>
 <p>Once the service on my server was up and running, I set up user accounts and installed the mobile phone apps for everyone in my family that needed the photo backups. The feature works brilliantly; when a photo is taken by a user, it automatically backs it up to Nextcloud. Google’s paltry 15 GB of space would no longer be filled in a pinch! I also setup a sync between my dad’s external hard drive connected to his main PC and Nextcloud so that his data would be accessible from everywhere without having to lug around a hard drive safely. And since his personal PC and the server are connected through a Gigabit ethernet switch, he has access to mass high speed storage when he’s working at home.</p>
 
+<pre><code>sudo snap install nextcloud</code></pre>
+
 <hr class="major" />
 
 <h3>Plex</h3>
+https://www.plex.tv/
+<p>The next program that I installed and configured was <a href="https://www.plex.tv/">Plex</a>. Plex is an amazing streaming service that organizes the media you have by tagging it with metadata and presenting it in a neat manner via the many clients it has. Plus, you can access the media on your server from anywhere meaning that while I’m across the Pacific in Australia, I’ll be able to sit back and watch my collection of movies and family videos without having to download or carry them. For Plex, I also went the Snap installation route and after getting my libraries setup, I let the program do all the work. </p>
 
-<p>The next program that I installed and configured was Plex. Plex is an amazing streaming service that organizes the media you have by tagging it with metadata and presenting it in a neat manner via the many clients it has. Plus, you can access the media on your server from anywhere meaning that while I’m across the Pacific in Australia, I’ll be able to sit back and watch my collection of movies and family videos without having to download or carry them. For Plex, I also went the Snap installation route and after getting my libraries setup, I let the program do all the work. </p>
-
-<p>As all the Plex libraries are located on the 4 TB WD Red drive separate from my Nextcloud installation, I can’t manage the folders/files on this drive without the help of a handy app in the Nextcloud store. This allows you to link folders outside of your Nextcloud data directory to be accessible within the service. This way I can manage my entire Plex library from inside Nextcloud.</p>
+<p>As all the Plex libraries are located on the 4 TB WD Red drive separate from my Nextcloud installation, I can’t manage the folders/files on this drive without the help of a handy <a href="https://docs.nextcloud.com/server/latest/admin_manual/configuration_files/external_storage_configuration_gui.html">app</a> in the Nextcloud store. This allows you to link folders outside of your Nextcloud data directory to be accessible within the service. This way I can manage my entire Plex library from inside Nextcloud.</p>
 
 <span class="image fit"><img src="{% link assets/images/plex.png %}" alt="" /></span>
 
@@ -113,12 +115,12 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <h3>qBittorrent</h3>
 
-<p>My Plex installation wouldn’t really be complete without a torrent client to go along with it. My personal preference is to use qBittorrent as it’s what I’m familiar with on Windows. It’s accessible to control via a web interface in a browser, or you could also download a phone client such as Transdroid on your phone for convenience.</p>
+<p>My Plex installation wouldn’t really be complete without a torrent client to go along with it. My personal preference is to use <a href="https://www.qbittorrent.org/">qBittorrent</a> as it’s what I’m familiar with on Windows. It’s accessible to control via a web interface in a browser, or you could also download a phone client such as Transdroid on your phone for convenience.</p>
 
 <hr class="major" />
 
 <h3>OpenVPN</h3>
-<p><span class="image right"><img src="{% link assets/images/OpenVPN.jpg %}" alt="" /></span>Finally, the last application that I will use the server for is OpenVPN. Like most VPN services, OpenVPN encrypts your data and keeps it away from prying eyes such as your ISP and other onlookers on the internet. It also lets me remotely tunnel into my home’s network if I needed to do so. For example, if the Kangaroonian Netflix doesn’t have a show I like, I can tunnel into my home’s network and view everything Canadian Netflix has in its catalogue. A niche utility, sure but it’ll be nice to have in a pinch if my parents need me to randomly fix the router while I’m away. </p>
+<p><span class="image right"><img src="{% link assets/images/OpenVPN.jpg %}" alt="" /></span>Finally, the last application that I will use the server for is <a href="https://openvpn.net/">OpenVPN</a>. Like most VPN services, OpenVPN encrypts your data and keeps it away from prying eyes such as your ISP and other onlookers on the internet. It also lets me remotely tunnel into my home’s network if I needed to do so. For example, if the Kangaroonian Netflix doesn’t have a show I like, I can tunnel into my home’s network and view everything Canadian Netflix has in its catalogue. A niche utility, sure but it’ll be nice to have in a pinch if my parents need me to randomly fix the router while I’m away. </p>
 
 <p>Once again, the installation was straightforward as I followed this simple five-minute guide without delving into anything too excessive for my usage.</p>
 
