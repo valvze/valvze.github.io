@@ -109,13 +109,19 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <span class="image fit"><img src="{% link assets/images/plex.png %}" alt="" /></span>
 
+<hr class="major" />
 
 <h3>qBittorrent</h3>
 
 <p>
 My Plex installation wouldn’t really be complete without a torrent client to go along with it. My personal preference is to use qBittorrent as it’s what I’m familiar with on Windows. It’s accessible to control via a web interface in a browser, or you could also download a phone client such as Transdroid on your phone for convenience.</p>
 
-<span class="image fit"><img src="{% link assets/images/qbitt.png %}" alt="" /></span>
+<hr class="major" />
+
+<h3>OpenVPN</h3>
+<span class="image right"><img src="{% link assets/images/openvpn.jpg %}" alt="" /></span>
+<p>Finally, the last application that I will use the server for is OpenVPN. Like most VPN services, OpenVPN encrypts your data and keeps it away from prying eyes such as your ISP and other onlookers on the internet. It also lets me remotely tunnel into my home’s network if I needed to do so. For example, if the Kangaroonian Netflix doesn’t have a show I like, I can tunnel into my home’s network and view everything Canadian Netflix has in its catalogue. A niche utility, sure but it’ll be nice to have in a pinch if my parents need me to randomly fix the router while I’m away. </p>
+<p>Once again, the installation was straightforward as I followed this simple five-minute guide without delving into anything too excessive for my usage.</p>
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
