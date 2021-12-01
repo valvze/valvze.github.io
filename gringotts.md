@@ -83,7 +83,7 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 <p>Following this brilliant guide from fevangelou, I was able to setup RAID 1 (mirroring) on two of my WD Blue drives which would ensure I had data redundancy in the event that one of my drives ever failed. In that scenario, I still would be able to run a functioning server with all my data until I acquired a replacement. The only downside to this setup is that even though I have 8 TB worth of space, only have of it is usable. But that’s a price I’m willing to pay for having peace of mind in the event that one of my drives ever does blow.
 </p>
 
-<p><span class="image right"><img src="{% link assets/images/ubuntu.png %}" alt="" /></span>With the framework laid out for my server, I began to install and configure everything that the typical homeserver runs daily. But first, I installed SSH so that I could finally find a space for the server to live in my dad’s office while I controlled it from the comfort of my bedroom using a laptop.</p>
+<p><span class="image right"><img src="{% link assets/images/ubuntu.png %}" alt="" /></span>With the framework laid out for my server, I configured SSH (secure shell) and then found a home for the server in my dad's office. SSH allows you to use another computer's command line to remote into the server and operate it as if you were physically in front of it.</p>
 
 <hr class="major" />
 
@@ -91,10 +91,15 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <h3>Nextcloud</h3>
 
-<p><span class="image left"><img src="{% link assets/images/ubuntu.jpg %}" alt="" /></span>The OS of choice is the popular Ubuntu Linux distribution. As I am using the PC as a server, I’ve also chosen to opt for the server edition and not the desktop one as a keyboard, mouse, and monitor will not be connected. All the operations I will do aside from the OS setup installation will be performed through command line on my laptop through SSH (secure shell). Doing this will allow me to minimize system stress as an external monitor and peripherals won’t be driven by the computer.
+<span class="image fit"><img src="{% link assets/images/nextcloud.png %}" alt="" /></span>
+
+<p><span class="image right"><img src="{% link assets/images/Nextcloud.jpg %}" alt="" /></span>To begin sorting out my mom’s phone storage woes immediately, I installed Nextcloud. Nextcloud is a self hosted cloud platform that can be used to store files, setup Email servers, Calendars, and so on. You can think of it like Google Drive but with no paltry 15 GB storage limit. Instead, Nextcloud gets as much space as you provide it, in this case it is 4 TB. For my installation, I chose to go down the Snap path. My use case for Nextcloud is as vanilla as it gets so, I didn’t see any reason to pick the native path regardless of how configurable it may be. 
 </p>
-<p>The installation was seamless: download an image, burn it onto a USB with Balena Etcher, and boot off the USB with the help of the BIOS. Follow the straightforward prompts to customize the installation to your liking and you’ll be running the core of your system in no time.
+<p>Additionally, the guide that I followed provided very easy instructions to setup SSL (encryption) on a domain/dynamic DNS host you owned. In simpler terms, this allowed me to make my Nextcloud account accessible from anywhere in the world while maintaining a decent amount of security for my family’s sensitive data. There were a few ports that needed to be forwarded but luckily the Sasktel router that my house came with had such functionality.
 </p>
+
+<span class="image fit"><img src="{% link assets/images/sasktel.png %}" alt="" /></span>
+
 <p>During my own installation, I opted to setup a RAID configuration directly out of the gate during installation. RAID, an acronym for Redundant Array of Independent Disks, is a technology to merge physical drives into combined units. Doing so allows you to improve performance, create redundancy, or do both.
 </p>
 <p>Following this brilliant guide from fevangelou, I was able to setup RAID 1 (mirroring) on two of my WD Blue drives which would ensure I had data redundancy in the event that one of my drives ever failed. In that scenario, I still would be able to run a functioning server with all my data until I acquired a replacement. The only downside to this setup is that even though I have 8 TB worth of space, only have of it is usable. But that’s a price I’m willing to pay for having peace of mind in the event that one of my drives ever does blow.
