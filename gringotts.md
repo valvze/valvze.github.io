@@ -42,6 +42,39 @@ And so, I decided; I was going to transform an old office Dell that my family ow
 
 <hr class="major" />
 
+
+<h2>A Look at the Hardware</h2>
+<span class="image fit"><img src="{% link assets/images/dell.jpg %}" alt="" /></span>
+<p>In terms of hardware, literally everything in the case is stock and came as is from the factory. The only upgrades that have been made are adding more storage and a larger stick of RAM. Here are the specs:</p>
+
+<dl>
+	<dt>Pentium G630</dt>
+	<dd>
+		<p>A basic dual-core CPU, nothing special here. I’m on the active lookout for finding a more performant i-series processor that would allow me to transcode footage on Plex without jumping to 100% usage every time. Otherwise, it does everything else quite well. </p>
+	</dd>
+	<dt>Item2</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+	<dt>Item3</dt>
+	<dd>
+		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
+	</dd>
+</dl>
+
+
+
+<p>
+But my needs for a storage solution were different; I wanted fast transfer speeds, flexibility, and storage larger than 2 TB for all the torrented media in my possession. And past a certain point, cloud storage becomes increasingly expensive compared to running a server of your own with similar capacity. For instance, a 12 TB server ran at home with the spare hardware I had laying around would cost me about $25 dollars worth of electricity where I live. I'm only counting electricity as an expense here because unlimited internet is something my parents would pay for regardless. On the flip side, a similar 12 TB solution hosted through a cloud storage solution such as Google One would run me a monthly bill of $84. No thanks, I must save for my tuition!
+</p>
+<p>
+And so, I decided; I was going to transform an old office Dell that my family owned and turn it into a modest, but performant home server for our needs.
+</p>
+
+<hr class="major" />
+
+
+
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
