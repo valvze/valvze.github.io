@@ -107,6 +107,8 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <p>As all the Plex libraries are located on the 4 TB WD Red drive separate from my Nextcloud installation, I can’t manage the folders/files on this drive without the help of a handy app in the Nextcloud store. This allows you to link folders outside of your Nextcloud data directory to be accessible within the service. This way I can manage my entire Plex library from inside Nextcloud.</p>
 
+<span class="image fit"><img src="{% link assets/images/plex.png %}" alt="" /></span>
+
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
