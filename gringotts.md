@@ -31,6 +31,13 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 
 <h2 id="content">Why a Homeserver</h2>
 
+<section id="one">
+	<div class="inner">
+		<p>In the November of 2019, I decided to build a weather app in my mission to learn mobile app development. After countless nights of trial and error in my attempt to learn Java, I decided to make things easier for myself and delved into Flutter. Flutter's simple scaffolding implementation allowed me to build a fairly versatile app in the matter of days.</p>
+		<p>Powered by Dark Sky, Weather by Falcon is a reliable source of weather information and is a joy to use with it's beautiful user interface. Try it for yourself by clicking this <a href="https://play.google.com/store/apps/details?id=com.parthshah.falcon_weather&hl=en&gl=US">link</a>.</p>
+	</div>
+</section>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<p>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
@@ -40,45 +47,7 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 	</div>
 	<span class="image fit"><img src="{% link assets/images/server.jpg %}" alt="" /></span>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-</div>
-
-<h2 id="content">Gringotts' Hardware</h2>
-<p>
-</p>
-
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+	
 </div>
 
 <hr class="major" />
