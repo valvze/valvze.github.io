@@ -38,19 +38,6 @@ Compounded with the growing <i>ahem</i> torrented media in my possession and my 
 
 <h2 id="content">Why a Homeserver</h2>
 
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/server.jpgg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<p>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
-			</div>
-		</div>
-	</section>
-</section>
-
 <section id="one">
 	<div class="inner">
 		<header class="major">
