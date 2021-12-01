@@ -70,6 +70,10 @@ And so, I decided; I was going to transform an old office Dell that my family ow
 All in all, it’s a mediocre computer. But the hardware is rarely the fun part in an old re-purposed desktop computer, even if they’re new. Instead, let’s switch focus to the software that I’m running and what I use it for. 
 </p>
 
+<h2>Setting Up Ubuntu and RAID</h2>
+
+<p><span class="image left"><img src="{% link assets/images/ubuntu.jpg %}" alt="" /></span>The OS of my choice is the popular Ubuntu Linux distribution. As I am using the PC as a server, I’ve also chosen to opt for the server edition and not the desktop one as a keyboard, mouse, and monitor will not be connected. All the operations I will do aside from the OS setup installation will be performed through command line on my laptop through SSH (secure shell). Doing this will allow me to minimize system stress as an external monitor and peripherals won’t be driven by the computer. </p>
+
 <hr class="major" />
 
 
