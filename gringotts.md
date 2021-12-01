@@ -17,7 +17,7 @@ show_tile: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Whammy From Google</h2>
+<h2 id="content">Whammy From Alphabet</h2>
 <p>On June 1st of this year, Google announced an end to their "free, unlimited" cloud storage solution for anyone with access to their service. Instead, uploading media to their servers would now count towards a 15 GB quota that would need to carefully be managed by the user as the space would be shared between Google Drive, Google Photos, and Gmail. Fast forward to November and I begin to receive a barrage of complaints from my parents regarding space running out on their Google accounts; the free 15 GB had filled up surprisingly quick.
 </p>
 
@@ -29,6 +29,7 @@ Initially, I resolved to the low effort problem solving strategy at first and he
 Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's specific need of making the data on his hard drive to be accessible from anywhere, I decided it was time to brainstorm a creative solution to handle it all together.
 </p>
 
+<hr class="major" />
 
 <h2>Why a Homeserver</h2>
 <p><span class="image left"><img src="{% link assets/images/server.jpg %}" alt="" /></span>In the beginning brainstorm stage, I recognized two options: Find a solution for archiving my family's data locally or convince my parents to purchase cloud storage. The latter was especially attractive at first considering how cheap plans like Google One are. At the time of writing this, a 2 TB space is only $13.99 CAD a month. For the general population, this buy and forget solution is the de-facto solution for a safe space to store sensitive data and media. And it comes with other benefits such as being accessible from anywhere and the integration with the Google ecosystem which is invaluable to many.</p>
