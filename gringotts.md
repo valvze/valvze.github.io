@@ -29,6 +29,30 @@ Initially, I resolved to the low effort problem solving strategy at first and he
 Compounded with the growing <i>ahem</i> torrented media in my possession and my dad's specific need of making the data on his hard drive to be accessible from anywhere, I decided it was time to brainstorm a creative solution to handle it all together.
 </p>
 
+
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/fw2.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Function and Form</h3>
+				</header>
+				<p>While developing Falcon, a key focus was keeping it simple and beautiful while also presenting the most valuable information to plan your day. Form over function or function over form? I say why not both!</p>
+			</div>
+		</div>
+	</section>
+</section>
+
+
+
+
+
+
+
 <h2 id="content">Why a Homeserver</h2>
 
 <section id="one">
