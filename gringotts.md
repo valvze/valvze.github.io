@@ -122,6 +122,13 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <p>Once again, the installation was straightforward as I followed this simple five-minute guide without delving into anything too excessive for my usage.</p>
 
+<hr class="major" />
+
+<h3>Misc Utillities worth Mentioning</h3>
+<p>And that’s it. I installed a few minor programs here and there, mostly to help me with getting access to information without memorizing obscure commands I would need rarely. For example, Glances is an excellent task manager like tool that I can use to see what my server is doing from anywhere through SSH.</p>
+<p>Midnight Commander is also a useful command line file explorer that made me a bit more trustworthy of the commands I was executing as I could see the changes I was making easily.</p>
+
+
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
