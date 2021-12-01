@@ -104,11 +104,10 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 <hr class="major" />
 
 <h3>Plex</h3>
-https://www.plex.tv/
 <p>The next program that I installed and configured was <a href="https://www.plex.tv/">Plex</a>. Plex is an amazing streaming service that organizes the media you have by tagging it with metadata and presenting it in a neat manner via the many clients it has. Plus, you can access the media on your server from anywhere meaning that while I’m across the Pacific in Australia, I’ll be able to sit back and watch my collection of movies and family videos without having to download or carry them. For Plex, I also went the Snap installation route and after getting my libraries setup, I let the program do all the work. </p>
 
 <p>As all the Plex libraries are located on the 4 TB WD Red drive separate from my Nextcloud installation, I can’t manage the folders/files on this drive without the help of a handy <a href="https://docs.nextcloud.com/server/latest/admin_manual/configuration_files/external_storage_configuration_gui.html">app</a> in the Nextcloud store. This allows you to link folders outside of your Nextcloud data directory to be accessible within the service. This way I can manage my entire Plex library from inside Nextcloud.</p>
-
+<pre><code>sudo snap install plexmediaserver</code></pre>
 <span class="image fit"><img src="{% link assets/images/plex.png %}" alt="" /></span>
 
 <hr class="major" />
@@ -116,6 +115,8 @@ https://www.plex.tv/
 <h3>qBittorrent</h3>
 
 <p>My Plex installation wouldn’t really be complete without a torrent client to go along with it. My personal preference is to use <a href="https://www.qbittorrent.org/">qBittorrent</a> as it’s what I’m familiar with on Windows. It’s accessible to control via a web interface in a browser, or you could also download a phone client such as Transdroid on your phone for convenience.</p>
+<pre><code>sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+sudo apt install qbittorrent-nox</code></pre>
 
 <hr class="major" />
 
