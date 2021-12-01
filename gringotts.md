@@ -66,13 +66,8 @@ And so, I decided; I was going to transform an old office Dell that my family ow
 	</dd>
 </dl>
 
-
-
 <p>
-But my needs for a storage solution were different; I wanted fast transfer speeds, flexibility, and storage larger than 2 TB for all the torrented media in my possession. And past a certain point, cloud storage becomes increasingly expensive compared to running a server of your own with similar capacity. For instance, a 12 TB server ran at home with the spare hardware I had laying around would cost me about $25 dollars worth of electricity where I live. I'm only counting electricity as an expense here because unlimited internet is something my parents would pay for regardless. On the flip side, a similar 12 TB solution hosted through a cloud storage solution such as Google One would run me a monthly bill of $84. No thanks, I must save for my tuition!
-</p>
-<p>
-And so, I decided; I was going to transform an old office Dell that my family owned and turn it into a modest, but performant home server for our needs.
+All in all, it’s a mediocre computer. But the hardware is rarely the fun part in an old re-purposed desktop computer, even if they’re new. Instead, let’s switch focus to the software that I’m running and what I use it for. 
 </p>
 
 <hr class="major" />
