@@ -109,6 +109,12 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <span class="image fit"><img src="{% link assets/images/plex.png %}" alt="" /></span>
 
+
+<h3>qBittorrent</h3>
+
+<p>
+My Plex installation wouldn’t really be complete without a torrent client to go along with it. My personal preference is to use qBittorrent as it’s what I’m familiar with on Windows. It’s accessible to control via a web interface in a browser, or you could also download a phone client such as Transdroid on your phone for convenience.</p>
+
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
