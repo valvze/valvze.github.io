@@ -3,7 +3,7 @@ layout: page
 title: Gringotts - creating a home server
 nav-menu: false
 image: assets/images/googlephotos.jpg
-show_tile: false
+show_tile: true
 ---
 
 <!-- Main -->
