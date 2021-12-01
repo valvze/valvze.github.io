@@ -74,7 +74,7 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 
 <h2>Setting Up Ubuntu and RAID</h2>
 
-<p><span class="image left"><img src="{% link assets/images/ubuntu.png %}" alt="" /></span>The OS of my choice is the popular Ubuntu Linux distribution. As I am using the PC as a server, I’ve also chosen to opt for the server edition and not the desktop one as a keyboard, mouse, and monitor will not be connected. All the operations I will do aside from the OS setup installation will be performed through command line on my laptop through SSH (secure shell). Doing this will allow me to minimize system stress as an external monitor and peripherals won’t be driven by the computer.
+<p><span class="image left"><img src="{% link assets/images/ubuntu.jpg %}" alt="" /></span>The OS of my choice is the popular Ubuntu Linux distribution. As I am using the PC as a server, I’ve also chosen to opt for the server edition and not the desktop one as a keyboard, mouse, and monitor will not be connected. All the operations I will do aside from the OS setup installation will be performed through command line on my laptop through SSH (secure shell). Doing this will allow me to minimize system stress as an external monitor and peripherals won’t be driven by the computer.
 </p>
 <p>The installation was seamless: download an image, burn it onto a USB with Balena Etcher, and boot off the USB with the help of the BIOS. Follow the straightforward prompts to customize the installation to your liking and you’ll be running the core of your system in no time.
 </p>
