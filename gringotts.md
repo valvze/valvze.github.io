@@ -60,6 +60,10 @@ And so, I decided; I was going to transform an old office Dell that my family ow
 	<dd>
 		<p>Two of the three drives are basic Blue series drives utilizing CMR (conventional magnetic recording) which will be utilized in a RAID 1 array. The third drive is a Red series drive that I picked up for cheap this Black Friday but unfortunately it runs using SMR (shingled magnetic recording) instead. From my understanding, this technology isn’t the ideal in a RAID setup due to poor performance. Instead, I’ve opted to use it as storage for all my non-sensitive media on Plex.</p>
 	</dd>
+	<dt>Stock Motherboard and Cooling</dt>
+	<dd>
+		<p>I haven’t delved much into what parts these are but I’m assuming it’s Dell hardware. The board itself is Micro ATX so perhaps down the line I can migrate all the components into a case that is sleeker with better airflow.</p>
+	</dd>
 </dl>
 
 
