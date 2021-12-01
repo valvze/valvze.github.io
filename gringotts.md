@@ -80,7 +80,7 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 </p>
 <p>During my own installation, I opted to setup a RAID configuration directly out of the gate during installation. RAID, an acronym for Redundant Array of Independent Disks, is a technology to merge physical drives into combined units. Doing so allows you to improve performance, create redundancy, or do both.
 </p>
-<p>Following this brilliant guide from fevangelou, I was able to setup RAID 1 (mirroring) on two of my WD Blue drives which would ensure I had data redundancy in the event that one of my drives ever failed. In that scenario, I still would be able to run a functioning server with all my data until I acquired a replacement. The only downside to this setup is that even though I have 8 TB worth of space, only have of it is usable. But that’s a price I’m willing to pay for having peace of mind in the event that one of my drives ever does blow.
+<p>Following this brilliant guide from fevangelou, I was able to setup RAID 1 (mirroring) on two of my WD Blue drives which would ensure I had data redundancy in the event that one of my drives ever failed. In that scenario, I still would be able to run a functioning server with all my data until I acquired a replacement. The only downside to this setup is that even though I have 8 TB worth of space, only half of it is usable. But that’s a price I’m willing to pay for having peace of mind in the event that one of my drives unexpectedly gives up.
 </p>
 
 <p><span class="image right"><img src="{% link assets/images/ubuntu.png %}" alt="" /></span>With the framework laid out for my server, I configured SSH (secure shell) and then found a home for the server in my dad's office. SSH allows you to use another computer's command line to remote into the server and operate it as if you were physically in front of it.</p>
@@ -97,6 +97,7 @@ All in all, it’s a mediocre computer. But the hardware is rarely the fun part 
 </p>
 <p>Additionally, the guide that I followed provided very easy instructions to setup SSL (encryption) on a domain/dynamic DNS host you owned. In simpler terms, this allowed me to make my Nextcloud account accessible from anywhere in the world while maintaining a decent amount of security for my family’s sensitive data. There were a few ports that needed to be forwarded but luckily the Sasktel router that my house came with had such functionality.
 </p>
+<p>Once the service on my server was up and running, I set up user accounts and installed the mobile phone apps for everyone in my family that needed the photo backups. The feature works brilliantly; when a photo is taken by a user, it automatically backs it up to Nextcloud. Google’s paltry 15 GB of space would no longer be filled in a pinch! I also setup a sync between my dad’s external hard drive connected to his main PC and Nextcloud so that his data would be accessible from everywhere without having to lug around a hard drive safely. And since his personal PC and the server are connected through a Gigabit ethernet switch, he has access to mass high speed storage when he’s working at home.</p>
 
 
 
