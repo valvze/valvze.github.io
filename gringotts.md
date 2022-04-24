@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Oasis
-nav-menu: false
+nav-menu: true
 image: assets/images/googlephotos.jpg
-show_tile: false
-description: Self
+show_tile: true
+description: Building a homeserver.  
 ---
 
 <!-- Main -->
@@ -14,7 +14,7 @@ description: Self
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>A Summary of My Experience Building a Homeserver</h1>
+			<h1>My Experience Building a Homeserver</h1>
 		</header>
 
 <!-- Content -->
