@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gringotts
-nav-menu: true
+title: Oasis
+nav-menu: false
 image: assets/images/googlephotos.jpg
-show_tile: true
-description: A summary of my experience building a homeserver
+show_tile: false
+description: Self
 ---
 
 <!-- Main -->
