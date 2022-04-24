@@ -1,7 +1,7 @@
 ---
 title: Weather by Falcon
 layout: landing
-description: 'a simple Weather app built with Flutter'
+description: 'My Weather app built with Flutter SDK'
 image: assets/images/Frame.png
 nav-menu: true
 ---
