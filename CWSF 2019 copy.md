@@ -1,0 +1,10 @@
+---
+layout: page
+title: Mind the gAIt - Deciphering Gait Patterns With AI
+description: '2020 Canada Wide Science Fair Entry'
+nav-menu: true
+image: assets/images/cwsf2020.jpg
+---
+
+<meta http-equiv="refresh" content="0; URL='https://swbooster.com/article/10190/shah-earned-opportunity-to-advance-to-third-canada-wide-science-festival/'" />
+
