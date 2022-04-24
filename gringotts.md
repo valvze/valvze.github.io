@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Oasis
-nav-menu: true
+nav-menu: false
 image: assets/images/googlephotos.jpg
-show_tile: true
+show_tile: false
 description: Building a homeserver.  
 ---
 
