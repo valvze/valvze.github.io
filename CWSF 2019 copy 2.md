@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Intuition - Mobile Web Scraper App
-description: '2019 Canada Wide Science Fair Entry'
+title: Teddy Bear Hospital
+description: 'Volunteering at Good Shepherd Prep'
 nav-menu: true
-image: assets/images/cwsf2019.jpg
+image: assets/images/teddybear.jpg
 ---
 
-<meta http-equiv="refresh" content="0; URL='https://secure.youthscience.ca/virtualcwsf/projectdetails.php?id=5915&'" />
+<meta http-equiv="refresh" content="0; URL='https://www.facebook.com/JCUMSAteddybearhospital/photos/pcb.7831841563553768/7831834283554496/'" />
 
