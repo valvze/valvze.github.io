@@ -1,7 +1,7 @@
 ---
 title: Syndrome of Inappropriate Antidiuretic Hormone Secretion
 layout: landing
-description: 'A self designed poster about SIADH. Still in progress.'
+description: 'A poster detailing pathophysiology and management of SIADH.'
 image: assets/images/siadh.png
 nav-menu: true
 ---
